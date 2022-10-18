@@ -83,7 +83,7 @@ const fontStyles: Record<string, TypographyStyleOptions> = {
 const theme = createTheme({
   palette: {
     type: 'dark',
-    primary: { main: '#59A662', light: '#CDF7D2', dark: '#004708' },
+    primary: { main: '#F34FB9', light: '#CDF7D2', dark: '#F34FB9' },
     background: {
       default: '#232743',
       paper: '#232743',
@@ -92,7 +92,7 @@ const theme = createTheme({
       contentLight: '#F4F4F4',
       header: '#121212',
       footer: '#121212',
-      cta: '#59A662',
+      cta: '#F34FB9',
       appBG: '#1B1E31',
       filters: {
         active: '#4C5480',
@@ -203,7 +203,7 @@ const theme = createTheme({
     },
     MuiBackdrop: {
       root: {
-        backgroundColor: 'rgba(255,255,255,0.2)',
+        backgroundColor: '#F34FB9',
         backdropFilter: 'blur(8px)',
       },
     },
