@@ -53,7 +53,7 @@ export const styles = (theme: Theme) => ({
     display: 'grid',
     gridTemplateColumns: 'repeat(2, minmax(0, 1fr))',
     columnGap: '16px',
-    backgroundColor: '#2D3153',
+    backgroundColor: '#3F4D68',
     padding: '12px',
     borderRadius: '8px',
   },

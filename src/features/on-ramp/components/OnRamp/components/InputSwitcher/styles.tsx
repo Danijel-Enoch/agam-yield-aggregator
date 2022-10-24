@@ -10,7 +10,7 @@ export const styles = (theme: Theme) => ({
     '&::before, &::after': {
       content: '""',
       display: 'block',
-      background: '#2D3153',
+      background: '#3F4D68',
       height: '2px',
       width: '1px',
       flexShrink: '0',

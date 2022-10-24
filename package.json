@@ -54,10 +54,12 @@
   },
   "resolutions": {
     "web3": "^1.7.0",
-    "react-error-overlay": "6.0.9"
+    "react-error-overlay": "6.0.9",
+    "@types/react": "^17.0.38"
   },
   "scripts": {
     "start": "react-scripts start",
+    "preinstall": "yarn --package-lock-only --ignore-scripts",
     "build": "echo 'DO NOT disable validation on build, fix underlying issue' && yarn validate && react-scripts build",
     "validate": "node --es-module-specifier-resolution=node --loader ts-node/esm ./scripts/validatePools.ts",
     "creationdate": "node --es-module-specifier-resolution=node --loader ts-node/esm ./scripts/getPoolCreationTimestamp.ts",

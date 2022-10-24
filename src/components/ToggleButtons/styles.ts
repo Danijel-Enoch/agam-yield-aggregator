@@ -6,7 +6,7 @@ export const styles = (theme: Theme) => ({
     width: 'fit-content',
     border: 'solid 2px #303550',
     borderRadius: '8px',
-    backgroundColor: '#262A40',
+    backgroundColor: '#3F4D68',
   },
   fullWidth: {
     width: '100%',

@@ -75,22 +75,22 @@ export const styles = (theme: Theme) => ({
     },
   },
   success: {
-    color: '#FFFFFF',
-    backgroundColor: '#59A662',
-    borderColor: '#59A662',
+    color: '#262626',
+    backgroundColor: '#F6CEE7',
+    borderColor: '#F6CEE7',
     '&:hover': {
-      color: '#FFFFFF',
+      color: '#262626',
       backgroundColor: '#68a871',
       borderColor: '#68a871',
     },
   },
   filter: {
     color: '#8A8EA8',
-    backgroundColor: '#262A40',
+    backgroundColor: '#3F4D68',
     borderColor: '#303550',
     '&:hover': {
       color: '#D0D0DA',
-      backgroundColor: '#262A40',
+      backgroundColor: '#3F4D68',
       borderColor: '#303550',
     },
     '&:active, &$active': {
@@ -100,7 +100,7 @@ export const styles = (theme: Theme) => ({
     },
     '&:disabled': {
       color: '#8A8EA8',
-      backgroundColor: '#262A40',
+      backgroundColor: '#3F4D68',
       borderColor: '#303550',
       opacity: 0.4,
     },

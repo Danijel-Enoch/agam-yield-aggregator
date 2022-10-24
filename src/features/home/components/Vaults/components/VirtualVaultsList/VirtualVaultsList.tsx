@@ -70,7 +70,7 @@ export const VirtualVaultsList = memo<VirtualVaultsListProps>(function ({ vaultI
       borderBottomRightRadius: '8px',
       backgroundSize: `100% ${vaultHeightEstimate}px`,
       backgroundRepeat: 'repeat-y',
-      backgroundImage: `linear-gradient(to bottom, #2D3153 0px, #2D3153 ${
+      backgroundImage: `linear-gradient(to bottom, #3F4D68 0px, #3F4D68 ${
         vaultHeightEstimate - 2
       }px,  #363B63 ${vaultHeightEstimate - 2}px, #363B63 100%)`,
     };

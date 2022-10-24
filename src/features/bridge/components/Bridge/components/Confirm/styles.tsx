@@ -58,7 +58,7 @@ export const styles = (theme: Theme) => ({
     columnGap: '8px',
     marginTop: '24px',
     padding: '12px',
-    border: '2px solid #2D3153',
+    border: '2px solid #3F4D68',
     borderRadius: '8px',
   },
   detailLabel: {

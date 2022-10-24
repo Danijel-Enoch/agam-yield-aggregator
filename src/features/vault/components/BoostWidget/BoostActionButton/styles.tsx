@@ -4,7 +4,7 @@ export const styles = (theme: Theme) => ({
   container: {
     padding: 12,
     borderRadius: '8px',
-    backgroundColor: '#2D3153',
+    backgroundColor: '#3F4D68',
   },
   title: {
     display: 'flex',
