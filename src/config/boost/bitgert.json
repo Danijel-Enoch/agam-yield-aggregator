@@ -1,0 +1,18 @@
+[
+	{
+		"id": "moo_banana_bnb-pacoca",
+		"poolId": "banana-banana-bnb",
+		"name": "Pacoca",
+		"logo": "degens/banana-bnb.svg",
+		"earnedToken": "mooPacoca",
+		"earnedTokenDecimals": 18,
+		"earnedTokenAddress": "0x21403739A1Dc0e3ceC70CBD5ceaE78fF25F102a4",
+		"earnContractAddress": "0x3B6D305FAe833A64E56B1A4067A959D285B4F238",
+		"earnedOracle": "tokens",
+		"earnedOracleId": "PACOCA",
+		"partnership": true,
+		"status": "active",
+		"isMooStaked": true,
+		"partners": ["pacoca"]
+	}
+]

@@ -1,0 +1,31 @@
+[
+	{
+		"id": "briswap-WBRISE-AGAM",
+		"name": "WBRISE-AGAM LP",
+		"token": "WBRISE-AGAM LP2",
+		"tokenAddress": "0x6DbE46854723c439c8a5Dc8D6d08e7df685Dcd9d",
+		"tokenDecimals": 18,
+		"tokenProviderId": "briseswap",
+		"earnedToken": "mooCakeV2TRIVIA-BNB",
+		"earnedTokenAddress": "0x47EeD0C66222Da542e9Be18aBd809b29EE20db17",
+		"earnContractAddress": "0x47EeD0C66222Da542e9Be18aBd809b29EE20db17",
+		"oracle": "lps",
+		"oracleId": "cakev2-WBRISE-AGAM",
+		"status": "active",
+		"platformId": "briseswap",
+		"assets": ["WBRISE", "AGAM"],
+		"strategyTypeId": "lp",
+		"risks": [
+			"COMPLEXITY_LOW",
+			"BATTLE_TESTED",
+			"IL_HIGH",
+			"MCAP_MICRO",
+			"AUDIT",
+			"CONTRACTS_VERIFIED"
+		],
+		"addLiquidityUrl": "https://briseswap.finance/add/0x0eb9036cbE0f052386f36170c6b07eF0a0E3f710/0xE8930F26A176dc1320eD0Ee423AFe09e378C2e6A",
+		"buyTokenUrl": "https://briseswap.finance/swap?outputCurrency=0xE8930F26A176dc1320eD0Ee423AFe09e378C2e6A",
+		"network": "bitgert",
+		"createdAt": 1662482205
+	}
+]
